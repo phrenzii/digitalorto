@@ -17,7 +17,7 @@ A public notebook / digital garden for The Bentway’s [Digital and/as Public Sp
     + Initial template is based on the [Digital garden Jekyll template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) by Maxime Vaillancourt
 - [Tachyons](https://tachyons.io/), a functional CSS library that allows us to quickly grow the garden
 - [D3.js](https://d3js.org/), a JavaScript library for visualizing data
-    + Initial knowledge graph implementation from the [Digital garden Jekyll template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
+    + Initial knowledgem graph implementation from the [Digital garden Jekyll template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
 - [GitHub Actions](https://github.com/hyphacoop/digitalgarden/actions) for testing, building, and deploying the site.
     + [GitHub Actions for GitHub Pages](https://github.com/peaceiris/actions-gh-pages) is used to deploy the site to the [`gh-pages`](https://github.com/hyphacoop/digitalgarden/tree/gh-pages) branch
 - [Jekyll Feed plugin](https://github.com/hyphacoop/jekyll-feed), a plugin for Jekyll to generate an RSS feed
